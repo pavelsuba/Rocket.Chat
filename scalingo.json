@@ -1,7 +1,0 @@
-{
-  "name": "Golden.Rotator",
-  "repository": "https://github.com/pavelsuba/Rocket.Chat",
-  "description": "Have your own open-source Slack-like online chat, built with Meteor.",
-  "website": "https://mygoldenrotatorhub.com",
-  "addons": ["scalingo-mongodb"]
-}
